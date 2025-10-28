@@ -14,6 +14,8 @@ pairpl.map_offdiag(sns.scatterplot)
 pairpl.add_legend(title="year")
 plt.show()
 
-# Beispiel von Paiplot 
-# Diagonale ist Variable mit sich selbst (in Scatterplot nutzlos, mit Histogram nützlich)
-# man kann sehen ob sie linksschief,normal oder rechtsschief ist, also ob die meisten Sets günstig vs. teuer sind, oder klein und groß
+''''
+Example of Pairplot
+Diagonal is variable with itself (useless in scatterplot, useful with histogram)
+You can see if they are left-skewed, normal or right-skewed, meaning whether most sets are cheap vs. expensive, or small and large
+'''
